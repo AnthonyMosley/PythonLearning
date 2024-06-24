@@ -14,7 +14,7 @@ Welcome to the PythonLearning repository! This is a personal project by Anthony 
 No specific installation is required. Simply clone the repository to your local machine:
 
 ## Contributing
-This repository is primarily for personal use, but if you have suggestions or improvements, feel free to open an issue or submit a pull request.
+This repository is primarily for personal use, but if you have suggestions or improvements, feel free to open an issue or submit a pull request. Suggestions for new goals and projects always appreciated
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
